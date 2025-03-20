@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Engineer | 📊 Manager | 📚 Entrepreneur | 🤖 Prompt Expert
 
-I'm a tech enthusiast passionate about merging **consumer behavior with digital innovation**. I specialize in **web development, Odoo customization, and JavaScript frameworks** like Next.js and React. I love building **efficient, scalable, and user-friendly applications** while continuously learning and improving. 
+I'm a tech enthusiast passionate about merging **consumer behavior with digital innovation**. I specialize in **Product&Project Management ,web development, Odoo customization, and JavaScript frameworks** like Next.js and React. I love building **efficient, scalable, and user-friendly applications** while continuously learning and improving. 
 
 ---
 
