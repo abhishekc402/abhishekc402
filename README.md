@@ -87,7 +87,7 @@ A dynamic **e-learning platform** offering:
 
 ## 📫 Let's Connect!
 - **Website:** [servbizz.net](https://servbizz.net)
-- **Twitter:** [@YourTwitter](#)
-- **LinkedIn:** [@YourLinkedIn](#)
+- **Instagram:** [@https://www.instagram.com/abyusic/](#)
+- **LinkedIn:** [@https://www.linkedin.com/in/abhishek-chauhan-76480888/](#)
 
 🚀 Always open to collaborations, discussions, and learning new things!
