@@ -1,93 +1,84 @@
-# Hi, I'm Abhishek Chauhan! 🚀
+# Abhishek Chauhan
 
-## 👨‍💻 Engineer | 📊 Manager | 📚 Entrepreneur | 🤖 Prompt Expert
+**Full-Stack Vibe based Developer | Product Manager | Technical Entrepreneur**
 
-I'm a tech enthusiast passionate about merging **consumer behavior with digital innovation**. I specialize in **Product&Project Management ,web development, Odoo customization, and JavaScript frameworks** like Next.js and React. I love building **efficient, scalable, and user-friendly applications** while continuously learning and improving. 
-
----
-
-## 🔥 My Projects
-
-### 🏫 [theExamify.com]
-A dynamic **e-learning platform** offering:
-- **Courses & Mock Tests** – Free & paid courses for students.
-- **Interactive Blogs** – Insights on exams, strategies, and learning techniques.
-- **Custom-built Features** – User authentication, course management, and analytics.
-
-### 🌿 DevotionWalk.in
-- A platform for **spiritual and devotional content**.
-- Helps users **track daily prayers, reflections,Blogs and personal growth**.
-- **Tech Stack:** Next.js, Supabase.
-
-### 💼 ServBizz.net
-- A **business solutions platform** offering **consulting and tech services**.
-- Helps startups and businesses with **website development, automation, and digital marketing**.
-- **Tech Stack:** Next.js, Odoo, Supabase.
-
-### 🎵 RhythmWalk.in
-- A **music-based learning and teaching platform**.
-- Combines **customized music courses** with guided techniques.
-- **Tech Stack:** Next.js, React, Web Audio API.
-
-### 🛒 Odoo 18 (python) Custom E-Commerce Module
-- Developed an **eCommerce product for selling monthly/yearly passes**.
-- Generates an **8-character alphanumeric code** upon purchase.
-- Sends the code via **email notification** and marks it as used in a stored file.
-- **Tech Stack:** Odoo 18 (Python), Email Integration.
-
-### 📊 Parent Performance Tracker
-- Next.js web app for **tracking student performance**.
-- Converts an **Excel sheet** (name, exam title, score, total) into **interactive graphs**.
-- Uses **GSAP for smooth animations** and **beautiful UI elements**.
-- **Tech Stack:** Next.js, React, Tailwind CSS, GSAP.
-
-### 🔄 Unit Converter App
-- A simple, **responsive web app** for **unit conversions**.
-- Deployed on **Netlify** for quick access.
-- **Tech Stack:** JavaScript, HTML, CSS.
-
-### 🎨 Text-to-Visual Converter
-- Allows users to **map text into visual shapes**.
-- **Tech Stack:** JavaScript, React,Next JS.
-
-### 💰 AI-Powered Coupon Code Seller
-- Generates **random coupon codes** and sells them online.
-- Uses **AI for automation**, **Supabase for storage**, and **Razorpay for payments**.
-- Sends **codes via email** after payment confirmation.
-- **Tech Stack:** Next.js, Supabase, Razorpay.
+Experienced technology professional specializing in scalable web applications and digital product development. I combine deep technical expertise with strategic product management to build solutions that drive business growth and enhance user experiences.
 
 ---
 
-## 📌 Management & Technical Skills
+## 🏆 Key Projects & Achievements
 
-### 🔹 Technical Skills:
-- **Frontend:** Next.js, React, Tailwind CSS, GSAP,HTML.
-- **Backend:** Odoo (Python), Supabase, Firebase.
-- **Databases:** PostgreSQL, Supabase.
-- **Cloud & Hosting:** AWS EC2, Netlify, Vercel.
-- **Payments & Integrations:** Razorpay, Clerk, OneSignal.
-- **Automation & AI:** Bolt AI, Web Scraping, API Development.
-- **Analytics:** Mixpanel , Self Dev Platform(For analysis)
+**[SaleToMates](https://saletomates.store)** - *Marketplace Platform*
+- Explore or Post You products in you near-by to sell or Buy used items
+- location-based filtering and subscription management system
+- Al Based auto Complete Title and Descriptions
+- User can add Yt shorts ,insta Reels and image in product show area
 
-### 🔹 Management & Business Skills:
-- **Product Development:** Experience in **building & scaling e-learning platforms**.
-- **Project Management:** Organizing projects using **agile methodologies**.
-- **Consumer Behavior Analysis:** Merging **digital innovation** with **user needs**.
-- **Entrepreneurship:** Running **theExamify** as a startup with **free & paid services**.
+**[TextToShapes](https://dashboard.texttoshape.com)** - *Data Visualization Tool*
+- Created dynamic text-to-visual conversion algorithms
+- Built library of 25+ interactive visualization templates
+- Optimized for real-time data processing and rendering
+
+**[theExamify.com](https://theexamify.com)** - *Comprehensive E-Learning Platform*
+- Built scalable architecture serving courses, assessments, and interactive content
+- Implemented user authentication, payment processing, and analytics systems
+- Tech Stack: Next.js, React, Supabase, Razorpay integration
+
+**Odoo Module** - *Enterprise Solution*
+- Can Develope full project module based , Mail setup , Domain Setup.
+  
+### Consumer Applications
+**[DevotionWalk.in](https://devotionwalk.in)** - *Spiritual Wellness Platform*
+- Engineered real-time prayer tracking with personalized user journeys
+- Optimized for performance using Next.js and Supabase architecture
+
+**[RhythmWalk.in](https://rhythmwalk.in)** - *Interactive Music Learning Platform*
+- Integrated Web Audio API for custom audio processing features
+- Developed progressive learning modules with user progress tracking
+
+**Parent Performance Tracker** - *Analytics Dashboard*
+- Developed Excel-to-visualization pipeline with automated data processing
+- Implemented smooth animations using GSAP for enhanced UX
+- Built responsive design supporting multiple device formats
+
+**AI-Powered Coupon System** - *Automated Revenue Solution*
+- Architected AI-driven code generation and distribution system
+- Integrated payment processing with automated fulfillment workflows
 
 ---
 
-## 🌱 Learning & Interests
-- **JavaScript, Next.js, React,Prompt-Expert**
-- **AI-powered tools & automation**
-- **Push notifications & mobile app development**
-- **Data Structures & Algorithms (DSA)**
+## 🛠️ Technical Expertise
+
+• React • TypeScript • Tailwind CSS • GSAP • Responsive Design
+
+• Odoo • Node.js • PostgreSQL • Supabase • Firebase • API Development 
+
+• Bolt.new • Lovable.dev •Expo-Go
+
+### **Cloud & DevOps**
+AWS EC2 • Vercel • Netlify • CI/CD Dev • Performance Optimization
+
+•Egress & Ingress Optimization • Docker
+
+### **Integrations & Tools**
+Razorpay • Clerk Authentication • OneSignal • Mixpanel • Web Scraping •Resend
+
+### **Management & Strategy**
+Agile/Scrum • Jira • Notion • Product Roadmapping • User Research • Mixpanel
+
 
 ---
 
-## 📫 Let's Connect!
-- **Website:** [servbizz.net](https://servbizz.net)
-- **Instagram:** [@https://www.instagram.com/abyusic/](#)
-- **LinkedIn:** [@https://www.linkedin.com/in/abhishek-chauhan-76480888/](#)
+## 🌐 Professional Presence
 
-🚀 Always open to collaborations, discussions, and learning new things!
+- **Portfolio:** [servbizz.net](https://servbizz.net)
+- **LinkedIn:** [abhishek-chauhan-76480888](https://www.linkedin.com/in/abhishek-chauhan-76480888/)
+- **Instagram:** [@abyusic](https://www.instagram.com/abyusic/)
+
+---
+
+**Open to collaboration on innovative projects and technical challenges.** Let's build something exceptional together.
+
+---
+
+*"Excellence in execution comes from thinking systematically about the problems worth solving."*
