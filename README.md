@@ -1,6 +1,6 @@
 # Abhishek Chauhan
 
-**Full-Stack Vibe based Developer | Product Manager | Technical Entrepreneur**
+**Technical Product Manager /**
 
 Experienced technology professional specializing in scalable web applications and digital product development. I combine deep technical expertise with strategic product management to build solutions that drive business growth and enhance user experiences.
 
