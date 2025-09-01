@@ -71,7 +71,7 @@ Agile/Scrum • Jira • Notion • Product Roadmapping • User Research • Mi
 
 ## 🌐 Professional Presence
 
-- **Portfolio:** [servbizz.net](https://servbizz.net)
+- **Portfolio:** [https://resume.servbizz.space]
 - **LinkedIn:** [abhishek-chauhan-76480888](https://www.linkedin.com/in/abhishek-chauhan-76480888/)
 - **Instagram:** [@abyusic](https://www.instagram.com/abyusic/)
 
